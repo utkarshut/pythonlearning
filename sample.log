@@ -1,0 +1,10 @@
+2019-09-24 10:40:20,426:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/utkarsh/PycharmProjects/pythonLearning/39-logging-advanced.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-24 10:41:49,555:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/utkarsh/PycharmProjects/pythonLearning/39-logging-advanced.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
